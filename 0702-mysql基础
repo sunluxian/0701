@@ -81,7 +81,7 @@ svn、git
 			<=
 			!=   不等于
 			<>   不等于
-			需求:查询ecs_goods表中本店售价高于2000的商品的所有信息
+			需求:查询ecs_goods表中本店售价高于2000的商品的所有信息ce 
 			select * from ecs_goods where shop_price>2000;
 			需求:查询ecs_goods表中商品名称是不是kd876的商品的名字
 			select goods_name from ecs_goods where goods_name<>'kd876';
